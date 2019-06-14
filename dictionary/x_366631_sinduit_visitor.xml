@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Visitor" max_length="40" name="x_366631_sinduit_visitor" sizeclass="2" type="collection">
+        <element label="address" mandatory="true" max_length="32" name="address" reference="imp_location" type="reference"/>
+        <element label="intime" mandatory="true" max_length="100" name="intime" type="glide_time"/>
+        <element label="mobile" max_length="100" name="mobile" type="string"/>
+        <element label="phone" max_length="100" name="phone" type="phone_number_e164"/>
+        <element label="name" max_length="80" name="u_field_name_1" type="field_name"/>
+        <element label="mailid" max_length="80" name="u_field_name_4" type="field_name"/>
+        <element label="serialno." mandatory="true" max_length="40" name="u_float_1" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="in date" max_length="40" name="u_glide_date_5" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="out date" max_length="40" name="u_glide_date_6" type="glide_date"/>
+        <element label="intime" mandatory="true" max_length="40" name="u_glide_time_2" type="glide_time"/>
+        <element label="outtime" mandatory="true" max_length="40" name="u_glide_time_3" type="glide_time"/>
+        <element label="whom to meet" max_length="32" name="u_reference_8" reference="sys_user" type="reference"/>
+    </element>
+</database>

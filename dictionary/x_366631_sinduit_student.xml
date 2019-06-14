@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="student" max_length="40" name="x_366631_sinduit_student" type="collection">
+        <element label="percentage" max_length="40" name="percentage" type="integer"/>
+        <element label="pysical disable" max_length="40" name="pysical_disable" type="boolean"/>
+        <element label="sname" max_length="25" name="sname" type="string"/>
+    </element>
+</database>

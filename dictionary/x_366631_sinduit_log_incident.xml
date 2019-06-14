@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366631_sinduit_log_incident" sizeclass="10" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="end date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="start date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="end date" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element label="affected user" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
+    </element>
+</database>

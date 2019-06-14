@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Log incident">42f3c610dbce33009fdaf53a29961948</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="change_request">risk=2^EQ<item endquery="false" field="risk" goto="false" newquery="false" operator="=" or="false" value="2"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>you have to enter the details</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Case information</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>change_request</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 08:43:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>96143610db4273009fdaf53a29961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case information</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SINDUIT" source="x_366631_sinduit">42db7d18db8e33009fdaf53a299619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT">42db7d18db8e33009fdaf53a299619b3</sys_scope>
+        <sys_update_name>sys_app_module_96143610db4273009fdaf53a29961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 08:43:14</sys_updated_on>
+        <timeline_page/>
+        <title>Case information</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

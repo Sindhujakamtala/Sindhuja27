@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="352300a0db0673009fdaf53a299619ad" sys_domain="global" table="x_366631_sinduit_visitor" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 14:23:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>312300a0db0673009fdaf53a299619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366631_sinduit_visitor" name="x_366631_sinduit_visitor" sys_domain="global" view="b123cc60db0673009fdaf53a29961997">352300a0db0673009fdaf53a299619ad</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366631_sinduit_visitor" sys_domain="global" view="b123cc60db0673009fdaf53a29961997">b12300a0db0673009fdaf53a299619ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 14:23:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 14:23:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f92300a0db0673009fdaf53a299619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366631_sinduit_visitor" name="x_366631_sinduit_visitor" sys_domain="global" view="b123cc60db0673009fdaf53a29961997">352300a0db0673009fdaf53a299619ad</sys_ui_form>
+            <sys_ui_section caption="whom to meet" display_value="whom to meet" name="x_366631_sinduit_visitor" sys_domain="global" view="b123cc60db0673009fdaf53a29961997">792300a0db0673009fdaf53a299619ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 14:23:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_366631_sinduit_visitor</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 14:23:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>352300a0db0673009fdaf53a299619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366631_sinduit_visitor</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SINDUIT" source="x_366631_sinduit">42db7d18db8e33009fdaf53a299619b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SINDUIT">42db7d18db8e33009fdaf53a299619b3</sys_scope>
+            <sys_update_name>sys_ui_form_sections_352300a0db0673009fdaf53a299619ad</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 14:23:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Visitormanager" name="Visitormanager">b123cc60db0673009fdaf53a29961997</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

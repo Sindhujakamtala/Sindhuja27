@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident 1" max_length="40" name="x_366631_sinduit_log_incident_1" sizeclass="1" type="collection">
+        <element label="affeted user" mandatory="true" max_length="32" name="affeted_user" reference="sys_user" type="reference"/>
+        <element label="affected user" max_length="32" name="u_reference_1" reference="cmdb_ci_appl_dot_net" type="reference"/>
+    </element>
+</database>

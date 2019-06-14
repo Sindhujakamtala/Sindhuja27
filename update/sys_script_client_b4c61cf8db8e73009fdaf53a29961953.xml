@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>sdffsd</description>
+        <field>sys_created_on</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>onsubmit example</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+   alert("u r submiting to db");
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 10:28:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4c61cf8db8e73009fdaf53a29961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onsubmit example</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SINDUIT" source="x_366631_sinduit">42db7d18db8e33009fdaf53a299619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT">42db7d18db8e33009fdaf53a299619b3</sys_scope>
+        <sys_update_name>sys_script_client_b4c61cf8db8e73009fdaf53a29961953</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 10:28:23</sys_updated_on>
+        <table>x_366631_sinduit_student</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
